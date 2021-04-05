@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\bin\Debug\015 forech.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\bin\Debug\015 forech.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\bin\Debug\015 forech.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\obj\Debug\015 forech.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\obj\Debug\015 forech.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\obj\Debug\015 forech.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\015 forech\015 forech\obj\Debug\015 forech.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\bin\Debug\026 ValidarEmailYRegulares.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\bin\Debug\026 ValidarEmailYRegulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\bin\Debug\026 ValidarEmailYRegulares.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\obj\Debug\026 ValidarEmailYRegulares.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\obj\Debug\026 ValidarEmailYRegulares.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\obj\Debug\026 ValidarEmailYRegulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\026 ValidarEmailYRegulares\026 ValidarEmailYRegulares\obj\Debug\026 ValidarEmailYRegulares.pdb

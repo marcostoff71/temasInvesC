@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\bin\Debug\021 Clase Genericas.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\bin\Debug\021 Clase Genericas.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\bin\Debug\021 Clase Genericas.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\obj\Debug\021 Clase Genericas.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\obj\Debug\021 Clase Genericas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\obj\Debug\021 Clase Genericas.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\021 Clase Genericas\021 Clase Genericas\obj\Debug\021 Clase Genericas.pdb

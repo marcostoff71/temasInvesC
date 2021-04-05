@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\bin\Debug\023 String.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\bin\Debug\023 String.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\bin\Debug\023 String.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\obj\Debug\023 String.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\obj\Debug\023 String.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\obj\Debug\023 String.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\023 String\023 String\obj\Debug\023 String.pdb

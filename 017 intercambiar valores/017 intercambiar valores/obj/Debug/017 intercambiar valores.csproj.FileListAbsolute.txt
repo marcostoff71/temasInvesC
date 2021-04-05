@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\bin\Debug\017 intercambiar valores.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\bin\Debug\017 intercambiar valores.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\bin\Debug\017 intercambiar valores.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\obj\Debug\017 intercambiar valores.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\obj\Debug\017 intercambiar valores.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\obj\Debug\017 intercambiar valores.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\017 intercambiar valores\017 intercambiar valores\obj\Debug\017 intercambiar valores.pdb

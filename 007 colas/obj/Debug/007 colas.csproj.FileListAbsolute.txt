@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\bin\Debug\007 colas.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\bin\Debug\007 colas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\bin\Debug\007 colas.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\obj\Debug\007 colas.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\obj\Debug\007 colas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\obj\Debug\007 colas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\007 colas\obj\Debug\007 colas.pdb

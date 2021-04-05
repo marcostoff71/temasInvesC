@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\bin\Debug\027 Ejercicio.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\bin\Debug\027 Ejercicio.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\bin\Debug\027 Ejercicio.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\obj\Debug\027 Ejercicio.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\obj\Debug\027 Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\obj\Debug\027 Ejercicio.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\027 Ejercicio\027 Ejercicio\obj\Debug\027 Ejercicio.pdb

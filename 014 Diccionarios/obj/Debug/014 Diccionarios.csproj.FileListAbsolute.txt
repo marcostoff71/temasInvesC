@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\bin\Debug\014 Diccionarios.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\bin\Debug\014 Diccionarios.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\bin\Debug\014 Diccionarios.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\obj\Debug\014 Diccionarios.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\obj\Debug\014 Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\obj\Debug\014 Diccionarios.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\014 Diccionarios\obj\Debug\014 Diccionarios.pdb

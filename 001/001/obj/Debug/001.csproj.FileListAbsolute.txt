@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\bin\Debug\001.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\bin\Debug\001.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\bin\Debug\001.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\obj\Debug\001.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\obj\Debug\001.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\obj\Debug\001.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\001\001\obj\Debug\001.pdb

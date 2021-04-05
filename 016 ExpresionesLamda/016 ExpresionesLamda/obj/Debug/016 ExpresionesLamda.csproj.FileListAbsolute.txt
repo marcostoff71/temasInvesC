@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\bin\Debug\016 ExpresionesLamda.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\bin\Debug\016 ExpresionesLamda.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\bin\Debug\016 ExpresionesLamda.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\obj\Debug\016 ExpresionesLamda.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\obj\Debug\016 ExpresionesLamda.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\obj\Debug\016 ExpresionesLamda.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\016 ExpresionesLamda\016 ExpresionesLamda\obj\Debug\016 ExpresionesLamda.csprojAssemblyReference.cache

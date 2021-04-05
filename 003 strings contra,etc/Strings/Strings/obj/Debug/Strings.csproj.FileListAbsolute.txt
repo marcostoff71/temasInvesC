@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\003 strings contra,etc\Strings\Strings\obj\Debug\Strings.pdb

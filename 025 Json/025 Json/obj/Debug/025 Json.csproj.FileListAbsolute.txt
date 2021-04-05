@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\bin\Debug\025 Json.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\bin\Debug\025 Json.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\bin\Debug\025 Json.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\obj\Debug\025 Json.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\obj\Debug\025 Json.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\obj\Debug\025 Json.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\obj\Debug\025 Json.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\025 Json\025 Json\obj\Debug\025 Json.pdb

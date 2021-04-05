@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\002 numeros primos\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb

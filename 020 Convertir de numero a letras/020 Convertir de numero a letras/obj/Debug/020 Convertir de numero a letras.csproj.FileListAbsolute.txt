@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\bin\Debug\020 Convertir de numero a letras.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\bin\Debug\020 Convertir de numero a letras.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\bin\Debug\020 Convertir de numero a letras.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\obj\Debug\020 Convertir de numero a letras.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\obj\Debug\020 Convertir de numero a letras.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\obj\Debug\020 Convertir de numero a letras.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\020 Convertir de numero a letras\020 Convertir de numero a letras\obj\Debug\020 Convertir de numero a letras.pdb

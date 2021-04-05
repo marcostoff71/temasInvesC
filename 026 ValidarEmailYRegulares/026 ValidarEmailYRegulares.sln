@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026 ValidarEmailYRegulares", "026 ValidarEmailYRegulares\026 ValidarEmailYRegulares.csproj", "{457ED719-AE35-46DA-904F-3E7B3207759C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457ED719-AE35-46DA-904F-3E7B3207759C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457ED719-AE35-46DA-904F-3E7B3207759C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457ED719-AE35-46DA-904F-3E7B3207759C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457ED719-AE35-46DA-904F-3E7B3207759C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C20E93-0CE6-453F-B04E-CF1F71C18E3E}
+	EndGlobalSection
+EndGlobal

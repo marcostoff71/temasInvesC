@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\bin\Debug\004 Pilas.exe.config
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\bin\Debug\004 Pilas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\bin\Debug\004 Pilas.pdb
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\obj\Debug\004 Pilas.csprojAssemblyReference.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\obj\Debug\004 Pilas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\obj\Debug\004 Pilas.exe
+C:\Users\lenovo\source\2020\Marco\Programacion c#-001\C#\C# 2021\004 Pilas\obj\Debug\004 Pilas.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\bin\Debug\022 linkLised.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\bin\Debug\022 linkLised.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\bin\Debug\022 linkLised.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\obj\Debug\022 linkLised.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\obj\Debug\022 linkLised.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\obj\Debug\022 linkLised.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\022 linkLised\022 linkLised\obj\Debug\022 linkLised.pdb
