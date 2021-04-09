@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\bin\Debug\netcoreapp3.1\028 HttPOSTGET.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\028 HttPOSTGET\028 HttPOSTGET\obj\Debug\netcoreapp3.1\028 HttPOSTGET.genruntimeconfig.cache

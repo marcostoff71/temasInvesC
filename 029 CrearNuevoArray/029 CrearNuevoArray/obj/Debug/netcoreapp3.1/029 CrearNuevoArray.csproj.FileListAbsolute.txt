@@ -1,0 +1,13 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\bin\Debug\netcoreapp3.1\029 CrearNuevoArray.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\029 CrearNuevoArray\029 CrearNuevoArray\obj\Debug\netcoreapp3.1\029 CrearNuevoArray.genruntimeconfig.cache
