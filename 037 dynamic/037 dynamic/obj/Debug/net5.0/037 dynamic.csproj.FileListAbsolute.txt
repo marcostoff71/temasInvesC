@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\ref\037 dynamic.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\bin\Debug\net5.0\037 dynamic.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\ref\037 dynamic.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\037 dynamic\037 dynamic\obj\Debug\net5.0\037 dynamic.genruntimeconfig.cache

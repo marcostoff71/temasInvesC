@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\bin\Debug\054 Funciones de orden superior.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\bin\Debug\054 Funciones de orden superior.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\bin\Debug\054 Funciones de orden superior.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\obj\Debug\054 Funciones de orden superior.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\obj\Debug\054 Funciones de orden superior.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\obj\Debug\054 Funciones de orden superior.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\054 Funciones de orden superior\054 Funciones de orden superior\obj\Debug\054 Funciones de orden superior.pdb

@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\bin\Debug\048 Base64forms.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\bin\Debug\048 Base64forms.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\bin\Debug\048 Base64forms.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\048 Base64forms.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\_048_Base64forms.Form1.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\_048_Base64forms.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\048 Base64forms.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\048 Base64forms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\048 Base64forms.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\048 Base64forms.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\048 Base64forms\048 Base64forms\obj\Debug\_048_Base64forms.FrmDirectorios.resources

@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\ref\035 Icomprable.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\bin\Debug\net5.0\035 Icomprable.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\ref\035 Icomprable.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\035 Icomprable\035 Icomprable\obj\Debug\net5.0\035 Icomprable.genruntimeconfig.cache

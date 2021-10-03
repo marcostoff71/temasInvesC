@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\bin\Debug\052 Expresiones regulares.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\bin\Debug\052 Expresiones regulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\bin\Debug\052 Expresiones regulares.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\obj\Debug\052 Expresiones regulares.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\obj\Debug\052 Expresiones regulares.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\obj\Debug\052 Expresiones regulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\052 Expresiones regulares\052 Expresiones regulares\obj\Debug\052 Expresiones regulares.pdb

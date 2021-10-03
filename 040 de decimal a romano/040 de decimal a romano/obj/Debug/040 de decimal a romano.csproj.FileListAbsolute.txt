@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\bin\Debug\040 de decimal a romano.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\bin\Debug\040 de decimal a romano.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\bin\Debug\040 de decimal a romano.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\obj\Debug\040 de decimal a romano.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\obj\Debug\040 de decimal a romano.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\obj\Debug\040 de decimal a romano.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\040 de decimal a romano\040 de decimal a romano\obj\Debug\040 de decimal a romano.pdb

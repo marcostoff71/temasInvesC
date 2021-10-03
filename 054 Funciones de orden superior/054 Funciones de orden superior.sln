@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054 Funciones de orden superior", "054 Funciones de orden superior\054 Funciones de orden superior.csproj", "{64107E4E-5274-4218-AA69-34905F6B345F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64107E4E-5274-4218-AA69-34905F6B345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64107E4E-5274-4218-AA69-34905F6B345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64107E4E-5274-4218-AA69-34905F6B345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64107E4E-5274-4218-AA69-34905F6B345F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9FB3C42-46AF-4D5A-A0F6-0A5D1E854254}
+	EndGlobalSection
+EndGlobal

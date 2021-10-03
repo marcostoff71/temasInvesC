@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\bin\Debug\042 Tiempo.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\bin\Debug\042 Tiempo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\bin\Debug\042 Tiempo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\obj\Debug\042 Tiempo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\obj\Debug\042 Tiempo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\obj\Debug\042 Tiempo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\042 Tiempo\042 Tiempo\obj\Debug\042 Tiempo.pdb

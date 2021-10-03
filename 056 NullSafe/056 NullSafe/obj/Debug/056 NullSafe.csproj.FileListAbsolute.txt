@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\bin\Debug\056 NullSafe.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\bin\Debug\056 NullSafe.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\bin\Debug\056 NullSafe.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\obj\Debug\056 NullSafe.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\obj\Debug\056 NullSafe.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\obj\Debug\056 NullSafe.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\056 NullSafe\056 NullSafe\obj\Debug\056 NullSafe.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\bin\Debug\060 split.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\bin\Debug\060 split.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\bin\Debug\060 split.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\obj\Debug\060 split.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\obj\Debug\060 split.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\obj\Debug\060 split.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\060 split\060 split\obj\Debug\060 split.pdb

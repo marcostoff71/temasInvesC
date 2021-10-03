@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\bin\Debug\058 ExpresionesRegulares.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\bin\Debug\058 ExpresionesRegulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\bin\Debug\058 ExpresionesRegulares.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\obj\Debug\058 ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\obj\Debug\058 ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\obj\Debug\058 ExpresionesRegulares.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\058 ExpresionesRegulares\058 ExpresionesRegulares\obj\Debug\058 ExpresionesRegulares.pdb

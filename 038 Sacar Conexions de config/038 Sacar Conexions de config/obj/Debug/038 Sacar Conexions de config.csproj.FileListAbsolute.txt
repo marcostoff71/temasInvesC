@@ -1,0 +1,10 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\bin\Debug\038 Sacar Conexions de config.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\bin\Debug\038 Sacar Conexions de config.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\bin\Debug\038 Sacar Conexions de config.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\038 Sacar Conexions de config.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\_038_Sacar_Conexions_de_config.Form1.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\_038_Sacar_Conexions_de_config.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\038 Sacar Conexions de config.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\038 Sacar Conexions de config.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\038 Sacar Conexions de config.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\038 Sacar Conexions de config\038 Sacar Conexions de config\obj\Debug\038 Sacar Conexions de config.pdb

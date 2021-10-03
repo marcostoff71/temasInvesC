@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\bin\Debug\LinqIntermedio.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\bin\Debug\LinqIntermedio.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\bin\Debug\LinqIntermedio.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\obj\Debug\LinqIntermedio.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\obj\Debug\LinqIntermedio.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\obj\Debug\LinqIntermedio.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\LinqIntermedio\LinqIntermedio\obj\Debug\LinqIntermedio.pdb

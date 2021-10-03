@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\bin\Debug\Fechas netframeword.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\bin\Debug\Fechas netframeword.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\bin\Debug\Fechas netframeword.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\obj\Debug\Fechas netframeword.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\obj\Debug\Fechas netframeword.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\obj\Debug\Fechas netframeword.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\032 Fechas\Fechas netframeword\Fechas netframeword\obj\Debug\Fechas netframeword.pdb

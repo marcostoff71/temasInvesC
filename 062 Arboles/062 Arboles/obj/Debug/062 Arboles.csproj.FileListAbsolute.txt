@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\bin\Debug\062 Arboles.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\bin\Debug\062 Arboles.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\bin\Debug\062 Arboles.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\obj\Debug\062 Arboles.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\obj\Debug\062 Arboles.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\obj\Debug\062 Arboles.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\062 Arboles\062 Arboles\obj\Debug\062 Arboles.pdb

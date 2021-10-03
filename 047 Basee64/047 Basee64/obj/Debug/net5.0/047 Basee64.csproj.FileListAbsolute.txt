@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\ref\047 Basee64.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\bin\Debug\net5.0\047 Basee64.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\ref\047 Basee64.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\047 Basee64\047 Basee64\obj\Debug\net5.0\047 Basee64.genruntimeconfig.cache

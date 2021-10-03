@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\bin\Debug\049 SaberRutaDelProyecto.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\bin\Debug\049 SaberRutaDelProyecto.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\bin\Debug\049 SaberRutaDelProyecto.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\obj\Debug\049 SaberRutaDelProyecto.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\obj\Debug\049 SaberRutaDelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\obj\Debug\049 SaberRutaDelProyecto.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\049 SaberRutaDelProyecto\049 SaberRutaDelProyecto\obj\Debug\049 SaberRutaDelProyecto.pdb

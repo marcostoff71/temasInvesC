@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\ref\044 bits.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\bin\Debug\net5.0\044 bits.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\ref\044 bits.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\044 bits\044 bits\obj\Debug\net5.0\044 bits.genruntimeconfig.cache

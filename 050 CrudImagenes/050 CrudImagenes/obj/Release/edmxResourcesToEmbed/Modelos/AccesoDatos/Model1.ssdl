@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PrubaContraModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PersonaRu">
+    <Key>
+      <PropertyRef Name="IdPersona" />
+    </Key>
+    <Property Name="IdPersona" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="ApellidoPaterno" Type="varchar" MaxLength="50" />
+    <Property Name="ApellidoMaterno" Type="varchar" MaxLength="50" />
+    <Property Name="FechaNaci" Type="datetime" />
+    <Property Name="Edad" Type="int" />
+    <Property Name="FotoRut" Type="varchar(max)" />
+    <Property Name="NombreFoto" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="PrubaContraModelStoreContainer">
+    <EntitySet Name="PersonaRu" EntityType="Self.PersonaRu" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,17 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\050 CrudImagenes.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\050 CrudImagenes.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\050 CrudImagenes.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\_050_CrudImagenes.Formularios.UsrVistaPrincipal.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\_050_CrudImagenes.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\_050_CrudImagenes.Formularios.FrmPrincipal.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\_050_CrudImagenes.Formularios.FrmRegistro.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\050 CrudImagenes\050 CrudImagenes\obj\Debug\050 CrudImagenes.csproj.CopyComplete

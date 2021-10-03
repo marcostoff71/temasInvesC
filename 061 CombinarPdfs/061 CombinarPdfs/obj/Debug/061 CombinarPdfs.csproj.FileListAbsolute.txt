@@ -1,0 +1,37 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\061 CombinarPdfs.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\061 CombinarPdfs.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\061 CombinarPdfs.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.Core.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.barcodes.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.forms.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.io.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.kernel.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.layout.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.pdfa.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.sign.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.styledxmlparser.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.svg.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.Core.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\Common.Logging.Core.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.barcodes.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.forms.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.io.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.kernel.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.layout.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.pdfa.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.sign.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.styledxmlparser.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\bin\Debug\itext.svg.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\_061_CombinarPdfs.Form1.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\_061_CombinarPdfs.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\061 CombinarPdfs\061 CombinarPdfs\obj\Debug\061 CombinarPdfs.pdb

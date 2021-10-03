@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\bin\Debug\039 Metodos de listas y lin1.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\bin\Debug\039 Metodos de listas y lin1.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\bin\Debug\039 Metodos de listas y lin1.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\obj\Debug\039 Metodos de listas y lin1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\obj\Debug\039 Metodos de listas y lin1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\obj\Debug\039 Metodos de listas y lin1.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\039 Metodos de listas y lin1\039 Metodos de listas y lin1\obj\Debug\039 Metodos de listas y lin1.pdb

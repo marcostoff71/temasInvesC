@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\bin\Debug\041 GeneraCodigos.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\bin\Debug\041 GeneraCodigos.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\bin\Debug\041 GeneraCodigos.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\obj\Debug\041 GeneraCodigos.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\obj\Debug\041 GeneraCodigos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\obj\Debug\041 GeneraCodigos.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\041 GeneraCodigos\041 GeneraCodigos\obj\Debug\041 GeneraCodigos.pdb

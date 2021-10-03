@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\bin\Debug\034 Moda,Media.Mediana.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\bin\Debug\034 Moda,Media.Mediana.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\bin\Debug\034 Moda,Media.Mediana.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\obj\Debug\034 Moda,Media.Mediana.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\obj\Debug\034 Moda,Media.Mediana.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\obj\Debug\034 Moda,Media.Mediana.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\034 Moda,Media.Mediana\034 Moda,Media.Mediana\obj\Debug\034 Moda,Media.Mediana.pdb

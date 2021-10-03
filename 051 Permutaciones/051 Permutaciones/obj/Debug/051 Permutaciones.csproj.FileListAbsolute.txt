@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\bin\Debug\051 Permutaciones.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\bin\Debug\051 Permutaciones.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\bin\Debug\051 Permutaciones.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\obj\Debug\051 Permutaciones.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\obj\Debug\051 Permutaciones.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\obj\Debug\051 Permutaciones.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\051 Permutaciones\051 Permutaciones\obj\Debug\051 Permutaciones.pdb

@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\ref\045 ListasCIneumerbleGene.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\bin\Debug\net5.0\045 ListasCIneumerbleGene.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\ref\045 ListasCIneumerbleGene.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\045 ListasCIneumerbleGene\045 ListasCIneumerbleGene\obj\Debug\net5.0\045 ListasCIneumerbleGene.genruntimeconfig.cache

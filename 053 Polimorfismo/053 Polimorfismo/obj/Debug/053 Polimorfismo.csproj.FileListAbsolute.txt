@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\bin\Debug\053 Polimorfismo.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\bin\Debug\053 Polimorfismo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\bin\Debug\053 Polimorfismo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\obj\Debug\053 Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\obj\Debug\053 Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\obj\Debug\053 Polimorfismo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\053 Polimorfismo\053 Polimorfismo\obj\Debug\053 Polimorfismo.pdb

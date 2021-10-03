@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PrubaContraModelStoreContainer" CdmEntityContainer="PrubaContraEntities">
+    <EntitySetMapping Name="PersonaRu">
+      <EntityTypeMapping TypeName="PrubaContraModel.PersonaRu">
+        <MappingFragment StoreEntitySet="PersonaRu">
+          <ScalarProperty Name="IdPersona" ColumnName="IdPersona" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="FechaNaci" ColumnName="FechaNaci" />
+          <ScalarProperty Name="Edad" ColumnName="Edad" />
+          <ScalarProperty Name="FotoRut" ColumnName="FotoRut" />
+          <ScalarProperty Name="NombreFoto" ColumnName="NombreFoto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,16 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\ref\036 ExisteDentroDEArry.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\bin\Debug\net5.0\036 ExisteDentroDEArry.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\ref\036 ExisteDentroDEArry.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\036 ExisteDentroDEArry\036 ExisteDentroDEArry\obj\Debug\net5.0\036 ExisteDentroDEArry.genruntimeconfig.cache

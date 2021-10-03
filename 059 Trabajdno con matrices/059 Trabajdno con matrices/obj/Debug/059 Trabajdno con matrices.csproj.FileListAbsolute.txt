@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\bin\Debug\059 Trabajdno con matrices.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\bin\Debug\059 Trabajdno con matrices.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\bin\Debug\059 Trabajdno con matrices.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\obj\Debug\059 Trabajdno con matrices.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\obj\Debug\059 Trabajdno con matrices.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\obj\Debug\059 Trabajdno con matrices.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\059 Trabajdno con matrices\059 Trabajdno con matrices\obj\Debug\059 Trabajdno con matrices.pdb

@@ -1,0 +1,6 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\bin\Debug\055 Eventos Delegados.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\bin\Debug\055 Eventos Delegados.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\bin\Debug\055 Eventos Delegados.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\obj\Debug\055 Eventos Delegados.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\obj\Debug\055 Eventos Delegados.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\055 Eventos Delegados\055 Eventos Delegados\obj\Debug\055 Eventos Delegados.pdb

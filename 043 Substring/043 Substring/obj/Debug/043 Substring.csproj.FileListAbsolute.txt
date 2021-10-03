@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\bin\Debug\043 Substring.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\bin\Debug\043 Substring.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\bin\Debug\043 Substring.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\obj\Debug\043 Substring.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\obj\Debug\043 Substring.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\obj\Debug\043 Substring.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\043 Substring\043 Substring\obj\Debug\043 Substring.pdb
