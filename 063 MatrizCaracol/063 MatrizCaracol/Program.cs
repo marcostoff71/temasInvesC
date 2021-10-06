@@ -14,9 +14,9 @@ namespace _063_MatrizCaracol
         }
         static void Main(string[] args)
         {
-            MuestraMatrizCorchetes(MatrizCaraCol(6,4));
+            MuestraMatrizCorchetes(MatrizCaraCol(6, 4));
             mostrarMatriz(4, 6);
-            MuestraMatrizSeparacion("\t",MatrizCara(6, 4));
+            MuestraMatrizSeparacion("\t", MatrizCara(6, 4));
         }
         private static void mostrarMatriz(int columnas, int filas)
         {
