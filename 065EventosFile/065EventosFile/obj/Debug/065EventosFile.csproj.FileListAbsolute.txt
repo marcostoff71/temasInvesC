@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\bin\Debug\065EventosFile.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\bin\Debug\065EventosFile.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\bin\Debug\065EventosFile.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\obj\Debug\065EventosFile.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\obj\Debug\065EventosFile.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\obj\Debug\065EventosFile.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\065EventosFile\065EventosFile\obj\Debug\065EventosFile.pdb

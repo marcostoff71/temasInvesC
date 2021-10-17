@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\bin\Debug\066 EncontrarNumArray.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\bin\Debug\066 EncontrarNumArray.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\bin\Debug\066 EncontrarNumArray.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\obj\Debug\066 EncontrarNumArray.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\obj\Debug\066 EncontrarNumArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\obj\Debug\066 EncontrarNumArray.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 EncontrarNumArray\066 EncontrarNumArray\obj\Debug\066 EncontrarNumArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\bin\Debug\064SubsTringFondo.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\bin\Debug\064SubsTringFondo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\bin\Debug\064SubsTringFondo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\obj\Debug\064SubsTringFondo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\obj\Debug\064SubsTringFondo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\obj\Debug\064SubsTringFondo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\064SubsTringFondo\064SubsTringFondo\obj\Debug\064SubsTringFondo.pdb

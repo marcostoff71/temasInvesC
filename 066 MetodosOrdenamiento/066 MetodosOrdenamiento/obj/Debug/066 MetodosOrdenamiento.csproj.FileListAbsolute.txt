@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\bin\Debug\066 MetodosOrdenamiento.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\bin\Debug\066 MetodosOrdenamiento.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\bin\Debug\066 MetodosOrdenamiento.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.pdb
