@@ -5,3 +5,4 @@ C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 Metodos
 C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.exe
 C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\066 MetodosOrdenamiento\066 MetodosOrdenamiento\obj\Debug\066 MetodosOrdenamiento.csproj.SuggestedBindingRedirects.cache

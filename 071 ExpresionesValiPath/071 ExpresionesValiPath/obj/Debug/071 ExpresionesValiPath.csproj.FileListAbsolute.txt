@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\bin\Debug\071 ExpresionesValiPath.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\bin\Debug\071 ExpresionesValiPath.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\bin\Debug\071 ExpresionesValiPath.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\obj\Debug\071 ExpresionesValiPath.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\obj\Debug\071 ExpresionesValiPath.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\obj\Debug\071 ExpresionesValiPath.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\071 ExpresionesValiPath\071 ExpresionesValiPath\obj\Debug\071 ExpresionesValiPath.pdb

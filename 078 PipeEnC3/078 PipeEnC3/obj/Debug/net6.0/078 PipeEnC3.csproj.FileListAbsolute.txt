@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\bin\Debug\net6.0\078 PipeEnC3.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\bin\Debug\net6.0\078 PipeEnC3.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\bin\Debug\net6.0\078 PipeEnC3.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\bin\Debug\net6.0\078 PipeEnC3.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\bin\Debug\net6.0\078 PipeEnC3.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\refint\078 PipeEnC3.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\078 PipeEnC3.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\078 PipeEnC3\078 PipeEnC3\obj\Debug\net6.0\ref\078 PipeEnC3.dll

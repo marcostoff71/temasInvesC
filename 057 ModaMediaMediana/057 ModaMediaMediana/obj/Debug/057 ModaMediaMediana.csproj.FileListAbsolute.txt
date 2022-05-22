@@ -5,3 +5,4 @@ C:\Users\lenovo\Cursos\C#\Temas investigados\057 ModaMediaMediana\057 ModaMediaM
 C:\Users\lenovo\Cursos\C#\Temas investigados\057 ModaMediaMediana\057 ModaMediaMediana\obj\Debug\057 ModaMediaMediana.exe
 C:\Users\lenovo\Cursos\C#\Temas investigados\057 ModaMediaMediana\057 ModaMediaMediana\obj\Debug\057 ModaMediaMediana.pdb
 C:\Users\lenovo\Cursos\C#\Temas investigados\057 ModaMediaMediana\057 ModaMediaMediana\obj\Debug\057 ModaMediaMediana.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\057 ModaMediaMediana\057 ModaMediaMediana\obj\Debug\057 ModaMediaMediana.csproj.SuggestedBindingRedirects.cache

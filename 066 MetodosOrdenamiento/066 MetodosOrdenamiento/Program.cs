@@ -10,6 +10,8 @@ namespace _066_MetodosOrdenamiento
     {
         static void Main(string[] args)
         {
+            
+
             PiedraPaPel();
             Console.WriteLine(FuerzaBruta("marco43saSAds. "));
             int[] numeros = { 6, 5, 4, 3, 2, 1 };

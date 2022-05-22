@@ -1,0 +1,11 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\bin\Debug\075 combo.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\bin\Debug\075 combo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\bin\Debug\075 combo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\_075_combo.Properties.Resources.resources
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.csproj.GenerateResource.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\075 combo.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\075 combo\075 combo\obj\Debug\_075_combo.Form1.resources

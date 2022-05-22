@@ -1,0 +1,15 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\bin\Debug\net6.0\081 Dividir.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\bin\Debug\net6.0\081 Dividir.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\bin\Debug\net6.0\081 Dividir.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\bin\Debug\net6.0\081 Dividir.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\bin\Debug\net6.0\081 Dividir.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\refint\081 Dividir.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\081 Dividir.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\081 Dividir\081 Dividir\obj\Debug\net6.0\ref\081 Dividir.dll

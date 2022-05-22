@@ -1,0 +1,8 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\bin\Debug\0999 Prueba Sha2.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\bin\Debug\0999 Prueba Sha2.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\bin\Debug\0999 Prueba Sha2.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\obj\Debug\0999 Prueba Sha2.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\obj\Debug\0999 Prueba Sha2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\obj\Debug\0999 Prueba Sha2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\obj\Debug\0999 Prueba Sha2.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\0999 Prueba Sha2\0999 Prueba Sha2\obj\Debug\0999 Prueba Sha2.pdb

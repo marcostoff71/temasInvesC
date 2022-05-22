@@ -1,0 +1,14 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.deps.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\bin\Debug\netcoreapp3.1\068Prubas.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\068Prubas\068Prubas\obj\Debug\netcoreapp3.1\068Prubas.genruntimeconfig.cache

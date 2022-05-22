@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\bin\Debug\069 TipoJaged.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\bin\Debug\069 TipoJaged.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\bin\Debug\069 TipoJaged.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\obj\Debug\069 TipoJaged.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\obj\Debug\069 TipoJaged.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\obj\Debug\069 TipoJaged.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\069 TipoJaged\069 TipoJaged\obj\Debug\069 TipoJaged.pdb

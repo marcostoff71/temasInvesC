@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "071 ExpresionesValiPath", "071 ExpresionesValiPath\071 ExpresionesValiPath.csproj", "{F9D222E2-ED5D-4CFA-982A-C1AA35A308CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D222E2-ED5D-4CFA-982A-C1AA35A308CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D222E2-ED5D-4CFA-982A-C1AA35A308CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D222E2-ED5D-4CFA-982A-C1AA35A308CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D222E2-ED5D-4CFA-982A-C1AA35A308CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBBF98C-0CF0-47D3-B0C0-BDD419100B1F}
+	EndGlobalSection
+EndGlobal

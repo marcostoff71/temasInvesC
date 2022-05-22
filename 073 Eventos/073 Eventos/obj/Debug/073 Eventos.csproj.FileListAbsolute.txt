@@ -1,0 +1,8 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\bin\Debug\073 Eventos.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\bin\Debug\073 Eventos.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\bin\Debug\073 Eventos.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\obj\Debug\073 Eventos.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\obj\Debug\073 Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\obj\Debug\073 Eventos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\obj\Debug\073 Eventos.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\073 Eventos\073 Eventos\obj\Debug\073 Eventos.pdb

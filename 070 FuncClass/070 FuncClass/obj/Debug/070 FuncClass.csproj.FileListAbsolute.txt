@@ -1,0 +1,8 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\bin\Debug\070 FuncClass.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\bin\Debug\070 FuncClass.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\bin\Debug\070 FuncClass.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\obj\Debug\070 FuncClass.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\obj\Debug\070 FuncClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\obj\Debug\070 FuncClass.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\obj\Debug\070 FuncClass.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\070 FuncClass\070 FuncClass\obj\Debug\070 FuncClass.csproj.ResolveComReference.cache

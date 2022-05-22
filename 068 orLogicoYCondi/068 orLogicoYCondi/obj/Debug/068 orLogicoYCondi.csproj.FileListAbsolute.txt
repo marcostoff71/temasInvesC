@@ -1,0 +1,7 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\bin\Debug\068 orLogicoYCondi.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\bin\Debug\068 orLogicoYCondi.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\bin\Debug\068 orLogicoYCondi.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\obj\Debug\068 orLogicoYCondi.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\obj\Debug\068 orLogicoYCondi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\obj\Debug\068 orLogicoYCondi.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\068 orLogicoYCondi\068 orLogicoYCondi\obj\Debug\068 orLogicoYCondi.pdb

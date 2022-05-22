@@ -1,0 +1,59 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\002 GuardarPdf.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\002 GuardarPdf.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\002 GuardarPdf.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.barcodes.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.commons.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.forms.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.io.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.kernel.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.layout.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.pdfa.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.sign.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.styledxmlparser.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.svg.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Memory.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.ValueTuple.dll
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.barcodes.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.commons.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.forms.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.io.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.kernel.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.layout.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.pdfa.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.sign.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.styledxmlparser.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\itext.svg.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Memory.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\Libreria-Itext-Pdf\002 GuardarPdf\002 GuardarPdf\obj\Debug\002 GuardarPdf.pdb

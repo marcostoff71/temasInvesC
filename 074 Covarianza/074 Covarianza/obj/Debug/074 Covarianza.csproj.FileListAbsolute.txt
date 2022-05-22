@@ -1,0 +1,8 @@
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\bin\Debug\074 Covarianza.exe.config
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\bin\Debug\074 Covarianza.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\bin\Debug\074 Covarianza.pdb
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\obj\Debug\074 Covarianza.csproj.AssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\obj\Debug\074 Covarianza.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\obj\Debug\074 Covarianza.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\obj\Debug\074 Covarianza.exe
+C:\Users\lenovo\Cursos\C#\Temas investigados\074 Covarianza\074 Covarianza\obj\Debug\074 Covarianza.pdb

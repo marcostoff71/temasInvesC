@@ -20,14 +20,20 @@ namespace _057_ModaMediaMediana
              */
 
 
-            int[] numeros = new int[] { 3,3,3,3,3,4,4,4,4 };
+            //int[] numeros = new int[] { 3,3,3,3,3,4,4,4,4 };
 
 
 
-            int[] mediana=ModaMediaMediana.CalculaMediana(numeros);
+            //int[] mediana=ModaMediaMediana.CalculaMediana(numeros);
 
-            ModaMediaMediana.MuestraArreglos(mediana);
-            Console.WriteLine( ModaMediaMediana.CalculaModa(numeros));
+            //ModaMediaMediana.MuestraArreglos(mediana);
+            //Console.WriteLine( ModaMediaMediana.CalculaModa(numeros));
+
+            var re=ModaMediaMediana.CalculaModaArr(1, 23,3,3,2,2);
+
+            Console.WriteLine("modas");
+
+            re.ToList().ForEach(e => Console.WriteLine(e));
             
         }
         

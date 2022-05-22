@@ -60,7 +60,42 @@ namespace _057_ModaMediaMediana
 
 
 
+        internal static int[] CalculaModaArr(params int[] items )
+        {
 
+
+
+            List<IGrouping<int, int>> result = items.GroupBy(e => e)
+                                                    
+                                                    .ToList();
+                                                    
+
+
+
+            int max = result.Max(e => e.Count());
+
+
+            List<int> lstModas = new List<int>();
+
+
+
+            if (max > 1)
+            {
+
+
+                var re=result.Where(e => e.Count() == max);
+
+                lstModas.AddRange(re.Select(e=>e.Key));
+
+            }
+
+            
+
+
+
+
+            return lstModas.ToArray();
+        }
 
         internal static decimal CalculaMedia(int[] items)
         {

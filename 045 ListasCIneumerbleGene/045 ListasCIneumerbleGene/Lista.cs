@@ -73,7 +73,7 @@ namespace _045_ListasCIneumerbleGene
                 {
                     Nodo auxInsertar = lst;
                     Nodo anterior = auxInsertar;
-                    for(int i = 0; i < index-1; i++)
+                    for(int i = 0; i < index; i++)
                     {
                         anterior = auxInsertar;
                         auxInsertar = auxInsertar.Next;

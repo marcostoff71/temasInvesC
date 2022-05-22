@@ -14,75 +14,172 @@ namespace _063_MatrizCaracol
         }
         static void Main(string[] args)
         {
-            MuestraMatrizCorchetes(MatrizCaraCol(6, 4));
-            mostrarMatriz(4, 6);
-            MuestraMatrizSeparacion("\t", MatrizCara(6, 4));
+
+            int[,] ma = CaracolMatriz(5,5);
+
+            MuestraMatrizSeparacion("\t",ma);
+            
+
+            //MuestraMatrizCorchetes(MatrizCaraCol(6, 4));
+            //mostrarMatriz(4, 6);
+            //MuestraMatrizSeparacion("\t", MatrizCara(6, 4));
+        }
+        private static int[,]  CaracolMatriz(int fila,int col)
+        {
+            int x = -1,y=0;
+            bool der=true, izq=false, aba=false, arriba=false;
+            int[,] matriz = new int[fila, col];
+
+
+
+            for(int i = 1; i <= matriz.Length; i++)
+            {
+
+                if (der)
+                {
+                    x++;
+
+                    if (x == fila)
+                    {
+                        x--;
+                        y++;
+                        der = false;
+                        aba = true;
+                    }
+                    else if (matriz[y, x] != 0)
+                    {
+                        x--;
+                        y++;
+                        der = false;
+                        aba = true;
+                    }
+                }else if (aba)
+                {
+                    y++;
+
+                    if (y == col)
+                    {
+                        y--;
+                        x--;
+                        aba = false;
+                        izq = true;
+                    }else if (matriz[y, x] != 0)
+                    {
+                        y--;
+                        x--;
+                        aba = false;
+                        izq = true;
+                    }
+                }else if (izq)
+                {
+                    x--;
+
+                    if (x == -1)
+                    {
+                        x++;
+                        y--;
+                        izq = false;
+                        arriba = true;
+                    }else if (matriz[y, x] != 0)
+                    {
+                        x++;
+                        y--;
+                        izq = false;
+                        arriba = true;
+
+                    }
+
+                }else if (arriba)
+                {
+                    y--;
+
+                    if (y == -1)
+                    {
+                        y++;
+                        x++;
+                        
+                        arriba = false;
+                        der = true;
+                    }
+                    else if (matriz[y, x] != 0)
+                    {
+                        x++;
+                        y++;
+                        arriba = false;
+                        der = true;
+
+                    }
+                }
+
+                matriz[y, x] = i;
+            }
+            return matriz;
         }
         private static void mostrarMatriz(int columnas, int filas)
         {
             bool derecha = true, izquierda = false, abajo = false;
             int[,] matrizc = new int[filas,columnas];
-            int x = 0, y = -1;
+            int y = 0, x = -1;
 
             for (int k = 1; k <= columnas * filas; k++)
             {
                 if (izquierda)
                 {
-                    y--;
-                    if (y == -1)
+                    x--;
+                    if (x == -1)
                     {
-                        y = 0; x--;
+                        x = 0; y--;
                         izquierda = false;
                     }
-                    else if (matrizc[x,y] != 0)
+                    else if (matrizc[y,x] != 0)
                     {
-                        y++; x--;
+                        x++; y--;
                         izquierda = false;
                     }
                 }
                 else if (derecha)
                 {
-                    y++;
-                    if (y == columnas)
+                    x++;
+                    if (x == columnas)
                     {
-                        y = columnas - 1; x++;
+                        x = columnas - 1; y++;
                         derecha = false;
                         abajo = true;
                     }
-                    else if (matrizc[x,y] != 0)
+                    else if (matrizc[y,x] != 0)
                     {
-                        y--; x++;
+                        x--; y++;
                         derecha = false;
                         abajo = true;
                     }
                 }
                 else if (abajo)
                 {
-                    x++;
-                    if (x == filas)
+                    y++;
+                    if (y == filas)
                     {
-                        x = filas - 1; y--;
+                        y = filas - 1; x--;
                         abajo = false;
                         izquierda = true;
                     }
-                    else if (matrizc[x,y] != 0)
+                    else if (matrizc[y,x] != 0)
                     {
-                        y--; x--;
+                        x--; y--;
                         abajo = false;
                         izquierda = true;
                     }
                 }
                 else
                 {
-                    x--;
-                    if (x == -1 || matrizc[x,y] != 0)
+                    y--;
+                    if (y == -1 || matrizc[y,x] != 0)
                     {
-                        x++; y++;
+                        y++; x++;
                         derecha = true;
                     }
                 }
 
-                matrizc[x,y] = k;
+                matrizc[y,x] = k;
             }
 
             for (int i = 0; i < filas; i++)
